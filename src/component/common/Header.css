@@ -1,0 +1,19 @@
+.header-container{
+	background-color: #e7e9eb57;
+	height: 400px;
+}
+.header-img {
+	text-align: center;
+}
+
+.header-links ul li a{
+	text-decoration: none;
+	color: black;
+	
+}
+.header-menu img{
+	height: 21px;
+}
+.show{
+	display: none;
+}
